@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/cloud_firestore-4.16.1/
+cloud_firestore_web=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.11.1/
+device_info_plus=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/device_info_plus-10.1.0/
+firebase_core=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/firebase_core-2.29.0/
+firebase_core_web=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/firebase_core_web-2.16.0/
+flutter_plugin_android_lifecycle=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.19/
+local_auth=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/local_auth-2.2.0/
+local_auth_android=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/local_auth_android-1.0.38/
+local_auth_darwin=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/local_auth_darwin-1.2.2/
+local_auth_windows=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/local_auth_windows-1.0.10/
+package_info_plus=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/package_info_plus-8.0.0/
+url_launcher=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/url_launcher-6.2.6/
+url_launcher_android=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.1/
+url_launcher_ios=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/url_launcher_ios-6.2.5/
+url_launcher_linux=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/url_launcher_linux-3.1.1/
+url_launcher_macos=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0/
+url_launcher_web=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/url_launcher_web-2.3.1/
+url_launcher_windows=/Users/ashwinshrestha/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.1/
