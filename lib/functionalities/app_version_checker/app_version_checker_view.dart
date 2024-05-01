@@ -47,7 +47,7 @@ class _AppVersionCheckerViewState extends State<AppVersionCheckerView>
   }
 
   Future<void> _checkAppVersion() async {
-    if (_isInitialized) {
+    if (!_isInitialized) {
       assert(false, 'The version checker is not initialized');
     }
     final packageInfromation =
