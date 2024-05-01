@@ -1,6 +1,6 @@
 name: outcode_package
 description: "A new Flutter package project."
-version: 0.0.1
+version: 0.0.2
 homepage:
 publish_to: "none"
 
@@ -20,6 +20,9 @@ dependencies:
   firebase_core: 2.29.0
   cloud_firestore: 4.16.1
   local_auth: 2.2.0
+  easy_localization: 3.0.6
+  flutter_cache_manager: 3.3.1
+  flutter_secure_storage: 9.0.0
 
 dev_dependencies:
   flutter_test:
