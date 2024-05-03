@@ -1,6 +1,6 @@
 name: outcode_package
 description: "A new Flutter package project."
-version: 0.0.3
+version: 0.0.4
 homepage:
 publish_to: "none"
 
@@ -11,6 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+    #oc bug reporter
   device_info_plus: 10.1.0
   package_info_plus: 8.0.0
   screenshot: 2.3.0
@@ -19,10 +21,19 @@ dependencies:
   url_launcher: 6.2.6
   firebase_core: 2.29.0
   cloud_firestore: 4.16.1
+
+  #app protection with biometrics
   local_auth: 2.2.0
+
+  # remote localization
   easy_localization: 3.0.6
   flutter_cache_manager: 3.3.1
   flutter_secure_storage: 9.0.0
+
+  # Media Picker
+  image_cropper: 5.0.1
+  image_picker: 1.0.8
+  permission_handler: 11.3.1
 
 dev_dependencies:
   flutter_test:
